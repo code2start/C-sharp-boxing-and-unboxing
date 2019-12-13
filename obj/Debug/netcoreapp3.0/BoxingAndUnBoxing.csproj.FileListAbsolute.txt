@@ -1,0 +1,11 @@
+C:\Users\Mohamed\source\repos\BoxingAndUnBoxing\bin\Debug\netcoreapp3.0\BoxingAndUnBoxing.exe
+C:\Users\Mohamed\source\repos\BoxingAndUnBoxing\bin\Debug\netcoreapp3.0\BoxingAndUnBoxing.deps.json
+C:\Users\Mohamed\source\repos\BoxingAndUnBoxing\bin\Debug\netcoreapp3.0\BoxingAndUnBoxing.runtimeconfig.json
+C:\Users\Mohamed\source\repos\BoxingAndUnBoxing\bin\Debug\netcoreapp3.0\BoxingAndUnBoxing.runtimeconfig.dev.json
+C:\Users\Mohamed\source\repos\BoxingAndUnBoxing\bin\Debug\netcoreapp3.0\BoxingAndUnBoxing.dll
+C:\Users\Mohamed\source\repos\BoxingAndUnBoxing\bin\Debug\netcoreapp3.0\BoxingAndUnBoxing.pdb
+C:\Users\Mohamed\source\repos\BoxingAndUnBoxing\obj\Debug\netcoreapp3.0\BoxingAndUnBoxing.csprojAssemblyReference.cache
+C:\Users\Mohamed\source\repos\BoxingAndUnBoxing\obj\Debug\netcoreapp3.0\BoxingAndUnBoxing.AssemblyInfoInputs.cache
+C:\Users\Mohamed\source\repos\BoxingAndUnBoxing\obj\Debug\netcoreapp3.0\BoxingAndUnBoxing.AssemblyInfo.cs
+C:\Users\Mohamed\source\repos\BoxingAndUnBoxing\obj\Debug\netcoreapp3.0\BoxingAndUnBoxing.dll
+C:\Users\Mohamed\source\repos\BoxingAndUnBoxing\obj\Debug\netcoreapp3.0\BoxingAndUnBoxing.pdb
